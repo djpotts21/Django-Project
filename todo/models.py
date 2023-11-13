@@ -1,5 +1,6 @@
 from django.db import models
 
+<<<<<<< HEAD
 
 # Create your models here.
 class Item(models.Model):
@@ -8,3 +9,6 @@ class Item(models.Model):
 
     def __str__(self):
         return self.name
+=======
+# Create your models here.
+>>>>>>> 06eb41d (Initial Commit)
