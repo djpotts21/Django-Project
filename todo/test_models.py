@@ -1,4 +1,5 @@
 from django.test import TestCase
+<<<<<<< HEAD
 from .models import Item
 
 
@@ -11,3 +12,7 @@ class TestModels(TestCase):
     def test_item_string_method_returns_name(self):
         item = Item.objects.create(name='Test Todo Item')
         self.assertEqual(str(item), 'Test Todo Item')
+=======
+
+
+>>>>>>> 6e6f3ff (Build Test Views and Models)
