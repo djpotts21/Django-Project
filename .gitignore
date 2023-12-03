@@ -7,12 +7,6 @@ __pycache__/
 node_modules/
 .github/
 cloudinary_python.txt
-<<<<<<< HEAD
 todo/migrations/
 .sqllite3
 ```
-<<<<<<< HEAD
-=======
->>>>>>> c656f88 (Initial commit)
-=======
->>>>>>> 60be493 (Update sqllite3)
