@@ -11,5 +11,8 @@ cloudinary_python.txt
 todo/migrations/
 .sqllite3
 ```
+<<<<<<< HEAD
 =======
 >>>>>>> c656f88 (Initial commit)
+=======
+>>>>>>> 60be493 (Update sqllite3)
