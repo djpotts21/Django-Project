@@ -34,7 +34,7 @@ SECRET_KEY = os.getenv("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.getenv("DEBUG")
 
-ALLOWED_HOSTS = ['django-todo-2021.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['django-project-djp2891-2682b6d8ac62.herokuapp.com', 'localhost']
 
 
 # Application definition
