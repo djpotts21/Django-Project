@@ -18,9 +18,6 @@ import psycopg2
 
 import dj_database_url
 
-if os.path.exists("env.py"):
-    import env
-
 development = os.getenv("DEVELOPMENT", False)
     
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
