@@ -8,5 +8,5 @@ node_modules/
 .github/
 cloudinary_python.txt
 todo/migrations/
-.sqllite3
+db.sqlite3
 ```
